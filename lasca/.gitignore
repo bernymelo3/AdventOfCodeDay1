@@ -1,0 +1,15 @@
+node_modules
+dist
+fotografias/
+dist-ssr
+*.local
+*.tsbuildinfo
+.DS_Store
+_shots.mjs
+_m.mjs
+prof-*
+p1
+.vercel
+
+# Design source kit — not used by the site build
+Logo + elementos/
