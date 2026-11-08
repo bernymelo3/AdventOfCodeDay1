@@ -10,3 +10,6 @@ _m.mjs
 prof-*
 p1
 .vercel
+
+# Design source kit — not used by the site build
+Logo + elementos/
